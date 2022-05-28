@@ -1,0 +1,18 @@
+.nav{
+    background-color: #67B5DD;
+}
+.nav a{
+    color: white;
+}
+
+.col{
+    padding: 10px;
+}
+
+#reproductor{
+    display: none;
+}
+
+#signal{
+    color: red;
+}
